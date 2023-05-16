@@ -1,0 +1,8 @@
+{
+  "name": "backstopjs",
+  "version": "1.0.0",
+  "description": "BackstopJS",
+  "dependencies": {
+    "backstopjs": "6.2.1"
+  }
+}
