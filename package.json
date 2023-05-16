@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "BackstopJS",
   "dependencies": {
-    "backstopjs": "6.2.1"
+    "backstopjs": "6.2.0"
   }
 }
