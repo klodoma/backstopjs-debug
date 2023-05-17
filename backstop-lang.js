@@ -29,5 +29,3 @@ for (const template of scenarioTemplates) {
 }
 
 module.exports = scenarios;
-
-module.exports = scenarios
