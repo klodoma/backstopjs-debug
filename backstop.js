@@ -15,7 +15,12 @@ module.exports = {
             label: "tablet",
             width: 1024,
             height: 768
-        }
+        },
+        // {
+        //     label: "HD desktop",
+        //     width: 1980,
+        //     height: 1024
+        // }
     ],
     onBeforeScript: "puppet/onBefore.js",
     onReadyScript: "puppet/onReady.js",
