@@ -1,8 +1,6 @@
 // Purpose: BackstopJS configuration file
 const langScenarios = require('./backstop-lang.js')
 
-console.log(langScenarios)
-
 module.exports = {
     id: "backstop_default",
     viewports: [
